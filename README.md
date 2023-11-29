@@ -9,7 +9,7 @@ OpenRunes is a neutral social network owned by nobody.
 - History written by anyone
 - Available forever
 
-OpenRunes is called an "immortal app" because it lives forever on the blockchain. It runs as code without a corporation, is immune to censorship, and impossible to shut down.
+OpenRunes is called an "immortal app" because it lives forever on the blockchain. It runs as code without a corporation, is immune to censorship, and impossible to shut down. It uses zero-knowledge proofs to preserve privacy.
 
 This makes it a perfect place to write history.
 
