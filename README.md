@@ -33,3 +33,6 @@ OpenRunes is designed for free speech & privacy. It is comparable to traditional
 | Business Model    | Sell Advertising      | Pay-per-use public utility |
 
 
+
+## License
+Open source MIT License
