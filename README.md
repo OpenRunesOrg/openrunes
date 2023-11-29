@@ -37,8 +37,9 @@ OpenRunes is designed for free speech & privacy. It is comparable to traditional
 OpenRunes is currently being written for Aztec Network, a privacy layer 2 for Ethereum.
 
 ## Contact Us
-Twitter: `@OpenRunes`
-Email: `openrunes.org@gmail.com`
+- Twitter: `@OpenRunes` 
+- Email: `openrunes.org@gmail.com`
+- GitHub: `https://github.com/OpenRunesOrg`
 
 ## Contributing
 OpenRunes is currently in development. If you would like to contribute, please contact us.
